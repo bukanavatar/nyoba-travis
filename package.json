@@ -1,0 +1,14 @@
+{
+  "name": "nyoba-travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.10.2"
+  }
+}
